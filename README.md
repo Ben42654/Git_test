@@ -1,0 +1,1 @@
+This is Benoit's first git project!
